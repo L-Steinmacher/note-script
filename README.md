@@ -1,5 +1,5 @@
 # Note Generating Script
----
+
 ### Discription
 This simple script is run from the terminal to generate note taking files in Markdown⬇️. It takes in two params args to generate the files. `Date` which is also the name of the files being created and `Streams` which is the number of extra files being generated if taking notes for more than one stream on any one given date.  
 
